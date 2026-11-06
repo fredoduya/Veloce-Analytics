@@ -1,0 +1,6 @@
+{
+  "name": "Veloce Sales Analytics Studio",
+  "description": "Interactive multi-dimensional sales analytics dashboard with dynamic visualizers, time-series trends, basket analysis, and custom chart studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
